@@ -1,5 +1,6 @@
 # BisqueJockey
-use two DJ Hero Controllers as a cheap MIDI Turntable
+Before long you'll be making lo-fi beats with the best of 'em.
+
 
 <img src = "">
 
