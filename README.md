@@ -2,7 +2,7 @@
 Before long you'll be making lo-fi beats with the best of 'em.
 
 
-<img src = "">
+<img src = "bih.png">
 
 ### Prereqs
 - Python 3
