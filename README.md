@@ -1,5 +1,6 @@
 # BisqueJockey
-Before long you'll be making lo-fi beats with the best of 'em.
+Before long you'll be making lo-fi beats with the best of 'em.<br>
+See it in action <a href="https://twitter.com/thehunterirving/status/1073760277491937281">here</a>!
 
 
 <img src = "bih.jpg">
